@@ -31,7 +31,8 @@ Tenho interesse em interfaces modernas, desenvolvimento web e construção de ap
 
 <td width="40%">
 
-<img width="100%" height="1920" alt="´p" src="https://github.com/user-attachments/assets/2e3bc00a-8840-4ab0-a624-a1312695cedf" />
+<img width="1041" height="1465" alt="´p" src="https://github.com/user-attachments/assets/a856726b-b699-4ce9-b981-6b3feb925e80" />
+
 
 </td>
 </tr>
