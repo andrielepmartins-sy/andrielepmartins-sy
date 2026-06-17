@@ -1,18 +1,20 @@
 <div align="center">
 
-# Mit
+# Andriele
 
-Estudante de Programação
+Desenvolvimento de Sistemas • Full Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:2563EB&text=Bem-vindo%20ao%20meu%20perfil&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:7C3AED&text=Bem-vindo%20ao%20meu%20perfil&fontSize=40&fontColor=ffffff" />
 
 </div>
 
----
+<table>
+<tr>
+<td width="60%">
 
 ## Sobre mim
 
-Sou estudante de programação com foco em desenvolvimento web.
+Sou estudante de Desenvolvimento de Sistemas com interesse em desenvolvimento Full Stack.
 
 Atualmente estudo:
 
@@ -21,8 +23,19 @@ Atualmente estudo:
 - Next.js
 - C#
 - Python
+- Banco de Dados
 
-Também tenho interesse em design, interfaces e experiência do usuário.
+Tenho interesse em interfaces modernas, desenvolvimento web e construção de aplicações completas.
+
+</td>
+
+<td width="40%">
+
+<img src="COLOQUE_SEU_GIF_AQUI" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -40,9 +53,9 @@ Também tenho interesse em design, interfaces e experiência do usuário.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andrielepmartins-sy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=andrielepmartins-sy&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrielepmartins-sy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrielepmartins-sy&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" />
 
 </div>
 
@@ -62,9 +75,9 @@ Também tenho interesse em design, interfaces e experiência do usuário.
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
-LinkedIn
-</a>
+Email: andrele.p.martins@aluno.senai.br
+
+GitHub: https://github.com/andrielepmartins-sy
 
 </div>
 
@@ -72,6 +85,6 @@ LinkedIn
 
 <div align="center">
 
-Código • Café • Música
+Desenvolvimento • Música • Aprendizado Contínuo
 
 </div>
