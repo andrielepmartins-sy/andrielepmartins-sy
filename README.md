@@ -51,7 +51,6 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=andrielepmartins-sy&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
