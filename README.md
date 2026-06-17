@@ -67,9 +67,11 @@ Tenho interesse em interfaces modernas, desenvolvimento web e construção de ap
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrielepmartins-sy&theme=github_dark" />
 
-</div>
+<br><br>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrielepmartins-sy&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ## Contato
 
