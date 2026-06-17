@@ -2,6 +2,10 @@
 
 ###
 
+<img align="left" height="204" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjA4eTl6em0ycjJvaTJ0NXFxdG0zbG5mOGpsaGc3YWs0eDR0b2RzNCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/4B1BTOMTi8b3OdPrzy/giphy.gif"  />
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="18" />
