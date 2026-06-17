@@ -1,11 +1,9 @@
 <div align="center">
 
-# Andriele
 
 Desenvolvimento de Sistemas • Full Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:7C3AED&text=Bem-vindo%20ao%20meu%20perfil&fontSize=40&fontColor=ffffff" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2D1B69,50:6B46C1,100:B794F4&text=Andriele&fontSize=50&fontColor=ffffff" />
 </div>
 
 <table>
@@ -54,10 +52,9 @@ Tenho interesse em interfaces modernas, desenvolvimento web e construção de ap
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andrielepmartins-sy&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=andrielepmartins-sy&show_icons=true&hide_border=true&bg_color=00000000&title_color=B794F4&text_color=D6BCFA&icon_color=9F7AEA" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrielepmartins-sy&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrielepmartins-sy&layout=compact&hide_border=true&bg_color=00000000&title_color=B794F4&text_color=D6BCFA" />
 </div>
 
 ---
@@ -66,14 +63,9 @@ Tenho interesse em interfaces modernas, desenvolvimento web e construção de ap
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrielepmartins-sy&theme=github_dark" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrielepmartins-sy&theme=tokyo-night&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrielepmartins-sy&theme=aura" />
 
 </div>
-
 ## Contato
 
 <div align="center">
