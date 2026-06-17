@@ -1,8 +1,10 @@
 <div align="center">
 
-# Olá, seja bem-vindo
+# Mit
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:4F46E5&text=Mit&fontSize=55&fontColor=ffffff"/>
+Estudante de Programação
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:2563EB&text=Bem-vindo%20ao%20meu%20perfil&fontSize=40&fontColor=ffffff" />
 
 </div>
 
@@ -10,17 +12,17 @@
 
 ## Sobre mim
 
-Estudante de Programação.
+Sou estudante de programação com foco em desenvolvimento web.
 
-Interesses:
+Atualmente estudo:
+
 - TypeScript
 - React
 - Next.js
 - C#
 - Python
-- UI/UX
 
-Sempre aprendendo novas tecnologias e desenvolvendo projetos.
+Também tenho interesse em design, interfaces e experiência do usuário.
 
 ---
 
@@ -28,7 +30,7 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,cs,cpp,python,nodejs,mysql,html,css,vscode,git" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,cs,cpp,python,nodejs,mysql,html,css,vscode,git,github" />
 
 </div>
 
@@ -38,19 +40,20 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andrielepmartins-sy&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=andrielepmartins-sy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrielepmartins-sy&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrielepmartins-sy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
 </div>
 
 ---
 
-## Sequência de contribuições
+## Atividade
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=andrielepmartins-sy&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrielepmartins-sy&theme=github_dark" />
+
 </div>
 
 ---
@@ -59,10 +62,16 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos.
 
 <div align="center">
 
-<a href="SEU_LINK_LINKEDIN">LinkedIn</a>
+<a href="SEU_LINKEDIN">
+LinkedIn
+</a>
 
 </div>
 
 ---
 
-> Código + Café + Música
+<div align="center">
+
+Código • Café • Música
+
+</div>
