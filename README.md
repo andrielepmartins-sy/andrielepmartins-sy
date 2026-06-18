@@ -66,11 +66,14 @@ Tenho interesse em interfaces modernas, desenvolvimento web e construção de ap
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrielepmartins-sy&theme=aura" />
 
 </div>
+
+---
+
 ## Contato
 
 <div align="center">
 
-Email: andrele.p.martins@aluno.senai.br
+Email: andrielepintomartins6@gmail.com
 
 GitHub: https://github.com/andrielepmartins-sy
 
