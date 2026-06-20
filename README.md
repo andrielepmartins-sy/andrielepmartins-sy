@@ -3,8 +3,7 @@
 
 Desenvolvimento de Sistemas • Full Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2D1B69,50:6B46C1,100:B794F4&text=Andriele&fontSize=50&fontColor=ffffff" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2D1B69,50:6B46C1,100:B794F4&text=Seja%0ABem-Vindo!&fontSize=50&fontColor=ffffff" />
 
 <table>
 <tr>
