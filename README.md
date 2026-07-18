@@ -47,17 +47,6 @@ Tenho interesse em interfaces modernas, desenvolvimento web e construção de ap
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andrielepmartins-sy&show_icons=true&hide_border=true&bg_color=00000000&title_color=B794F4&text_color=D6BCFA&icon_color=9F7AEA" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrielepmartins-sy&layout=compact&hide_border=true&bg_color=00000000&title_color=B794F4&text_color=D6BCFA" />
-</div>
-
----
-
 ## Atividade
 
 <div align="center">
@@ -82,6 +71,6 @@ GitHub: https://github.com/andrielepmartins-sy
 
 <div align="center">
 
-Desenvolvimento • Música • Aprendizado Contínuo
+Desenvolvimento • Aprendizado Contínuo
 
 </div>
