@@ -4,10 +4,7 @@
 
 <samp>
 
-<h1>
-constantly under construction
-</h1>
-
+<h1>constantly under construction</h1>
 
 </samp>
 
@@ -16,7 +13,7 @@ constantly under construction
 <div align="center">
 
 <img 
-src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N1cjJqenQwcXNnaTg2bmw0dGRja251ODVuNzhtdno2OHcwMGpkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sMoDwhnGrxpHXKxecy/giphy.gif"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N1cjJqenQwcXNnaTg2bmw0dGRja251ODVuNzhtdno2OHcwMGpkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sMoDwhnGrxpHXKxecy/giphy.gif"
 width="450"
 />
 
@@ -86,29 +83,65 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <br>
 
+## Linguagens
+
 <div align="center">
 
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"/>
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/>
 
 <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
 
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"/>
-
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg"/>
-
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/>
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"/>
 
 <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg"/>
 
 <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"/>
 
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"/>
-
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
-
 <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
 
 <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/>
+
+</div>
+
+<br>
+
+## Frameworks e Tecnologias
+
+<div align="center">
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg"/>
+
+</div>
+
+<br>
+
+## Banco de Dados
+
+<div align="center">
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg"/>
+
+</div>
+
+<br>
+
+## Ferramentas
+
+<div align="center">
 
 <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
 
