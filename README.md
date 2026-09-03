@@ -173,15 +173,9 @@ github
 
 <div align="center">
 
-<samp>
-
-Desenvolvimento de Sistemas
-
-<br>
-
-Programadora Full Stack
-
-</samp>
+<img 
+src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&duration=1&pause=999999&color=B794F4&center=true&vCenter=true&width=500&lines=01001000+01101001"
+/>
 
 </div>
 
