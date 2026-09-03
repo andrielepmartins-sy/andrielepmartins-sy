@@ -1,116 +1,146 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1A0B2E,50:6B46C1,100:B794F4"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A0B2E,50:6B46C1,100:B794F4&text=Seja%20Bem-Vindo!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<samp>
+
+<h1>
+constantly under construction
+</h1>
+
+
+</samp>
+
+</div>
+
+<div align="center">
+
+<img 
+src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N1cjJqenQwcXNnaTg2bmw0dGRja251ODVuNzhtdno2OHcwMGpkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sMoDwhnGrxpHXKxecy/giphy.gif"
+width="450"
+/>
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B794F4&center=true&vCenter=true&width=700&lines=Desenvolvimento+de+Sistemas;Full+Stack+Developer+em+Forma%C3%A7%C3%A3o;Criando%2C+evoluindo+e+aprendendo..." />
+<div align="center">
+
+<img 
+src="https://readme-typing-svg.demolab.com?font=Iosevka&color=B794F4&width=900&size=21&center=true&lines=Desenvolvimento+de+Sistemas;Programadora+Full+Stack"
+alt="Typing SVG"
+/>
 
 </div>
 
----
+<br>
+
+<details align="center">
+
+<summary>
+
+<samp>
+<b>Mais informações</b>
+</samp>
+
+</summary>
+
+<br>
 
 <div align="center">
 
-# Sobre mim
-
-</div>
-
 <table>
+
 <tr>
 
-<td width="60%">
+<td align="center">
 
-Sou estudante de **Desenvolvimento de Sistemas** com interesse em desenvolvimento **Full Stack**.
-
-Gosto de criar projetos, desenvolver interfaces modernas e transformar ideias em aplicações funcionais.
-
-Atualmente estudo:
-
-- TypeScript
-- JavaScript
-- React
-- Next.js
-- C#
-- C++
-- Python
-- Node.js
-- Banco de Dados
-
-Tenho interesse em desenvolvimento web, criação de interfaces modernas e construção de aplicações completas.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrielepmartins-sy&theme=aura"/>
 
 </td>
 
-<td width="40%" align="center">
+<td align="center">
 
-<img width="300" src="https://github.com/user-attachments/assets/a856726b-b699-4ce9-b981-6b3feb925e80" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrielepmartins-sy&theme=aura"/>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<img 
+width="100%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrielepmartins-sy&theme=aura"
+/>
+
+</td>
+
+</tr>
+
 </table>
 
----
-
-<div align="center">
-
-# Tecnologias
+</div>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,cs,cpp,python,nodejs,mysql,html,css&theme=dark" />
+<div align="center">
 
-<br><br>
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"/>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark" />
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg"/>
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"/>
 
 </div>
 
+<br>
+
 ---
-
-<div align="center">
-
-# Atividade
 
 <br>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrielepmartins-sy&theme=aura" />
-
-<br><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrielepmartins-sy&theme=aura" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrielepmartins-sy&theme=aura" />
-
-</div>
-
----
-
 <div align="center">
-
----
-
-<div align="center">
-
-# Contato
-
-<br>
 
 <a href="mailto:andrielepintomartins6@gmail.com">
 
-<img src="https://img.shields.io/badge/EMAIL-6B46C1?style=for-the-badge&logo=gmail&logoColor=white" />
+<img 
+src="https://img.shields.io/badge/Gmail-2D1B69?style=for-the-badge&logo=gmail&logoColor=white"
+/>
 
 </a>
 
 <a href="https://github.com/andrielepmartins-sy">
 
-<img src="https://img.shields.io/badge/GITHUB-2D1B69?style=for-the-badge&logo=github&logoColor=white" />
+<img 
+src="https://img.shields.io/badge/GitHub-6B46C1?style=for-the-badge&logo=github&logoColor=white"
+/>
 
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=andrielepmartins-sy&label=VISITANTES&color=6B46C1&style=flat-square" />
 
 </div>
 
@@ -118,10 +148,46 @@ Tenho interesse em desenvolvimento web, criação de interfaces modernas e const
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1A0B2E,50:6B46C1,100:B794F4" />
+<samp>
+
+<a href="mailto:andrielepintomartins6@gmail.com">
+email
+</a>
+
+⊹
+
+<a href="https://github.com/andrielepmartins-sy">
+github
+</a>
+
+</samp>
+
+</div>
 
 <br>
 
-Desenvolvimento • Criatividade • Aprendizado Contínuo
+</details>
+
+<br>
+<br>
+
+<div align="center">
+
+<samp>
+
+Desenvolvimento de Sistemas
+
+<br>
+
+Programadora Full Stack
+
+</samp>
 
 </div>
+
+<br>
+
+<img 
+width="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:6B46C1,100:B794F4&height=120&section=footer"
+/>
