@@ -4,7 +4,7 @@
 
 <samp>
 
-<h1>Constantly under construction</h1>
+# Constantly under construction
 
 </samp>
 
@@ -45,19 +45,21 @@ alt="Typing SVG"
 
 <br>
 
-<details align="center">
-
-<summary>
-
 <div align="center">
 
 <samp>
-<b>┌─[ HIDDEN CONTENT ]─┐</b><br>
-<b>NOT EVERYTHING IS VISIBLE</b>
+
+┌─[ HIDDEN CONTENT ]─┐<br>
+NOT EVERYTHING IS VISIBLE
+
 </samp>
 
 </div>
 
+
+<details>
+
+<summary align="center">
 </summary>
 
 <br>
@@ -76,7 +78,6 @@ Aqui você vai encontrar desde exercícios desenvolvidos durante meus estudos at
 
 </div>
 
-
 <br>
 
 <div align="center">
@@ -87,13 +88,17 @@ Aqui você vai encontrar desde exercícios desenvolvidos durante meus estudos at
 
 <td align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrielepmartins-sy&theme=aura"/>
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrielepmartins-sy&theme=aura"
+/>
 
 </td>
 
 <td align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrielepmartins-sy&theme=aura"/>
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrielepmartins-sy&theme=aura"
+/>
 
 </td>
 
@@ -118,9 +123,9 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <br>
 
-## Linguagens
-
 <div align="center">
+
+## Linguagens
 
 <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/>
 
@@ -140,9 +145,9 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <br>
 
-## Frameworks e Tecnologias
-
 <div align="center">
+
+## Frameworks e Tecnologias
 
 <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"/>
 
@@ -162,9 +167,9 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <br>
 
-## Banco de Dados
-
 <div align="center">
+
+## Banco de Dados
 
 <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
 
@@ -174,9 +179,9 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <br>
 
-## Ferramentas
-
 <div align="center">
+
+## Ferramentas
 
 <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
 
