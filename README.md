@@ -49,9 +49,14 @@ alt="Typing SVG"
 
 <summary>
 
+<div align="center">
+
 <samp>
-<b>Mais informações</b>
+<b>┌─[ HIDDEN CONTENT ]─┐</b><br>
+<b>NOT EVERYTHING IS VISIBLE</b>
 </samp>
+
+</div>
 
 </summary>
 
@@ -63,30 +68,14 @@ alt="Typing SVG"
 
 Sou Andriele, estudante de Desenvolvimento de Sistemas.
 
-<br><br>
+Este perfil reúne projetos, estudos e experiências que fazem parte da minha jornada na programação.
 
-Este perfil reúne projetos, estudos e experiências
-que fazem parte da minha jornada na programação.
-
-<div>
-<br><br>
-
-Aqui você vai encontrar desde exercícios e projetos desenvolvidos durante
-meus estudos até aplicações mais completas envolvendo interfaces,
-APIs, autenticação, banco de dados e outras tecnologias.
-
-<br><br>
-
-Ainda estou construindo meu caminho na tecnologia,
-então este perfil também está sempre mudando.
+Aqui você vai encontrar desde exercícios desenvolvidos durante meus estudos até aplicações envolvendo interfaces, APIs, autenticação e banco de dados.
 
 </samp>
 
 </div>
 
-</samp>
-
-</div>
 
 <br>
 
