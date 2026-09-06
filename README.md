@@ -23,6 +23,19 @@ width="450"
 
 <div align="center">
 
+<samp>
+
+Desenvolvedora em formação.  
+Aprendendo, criando e constantemente em construção.
+
+</samp>
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img 
 src="https://readme-typing-svg.demolab.com?font=Iosevka&color=B794F4&width=900&size=21&center=true&lines=Desenvolvimento+de+Sistemas;Programadora+Full+Stack"
 alt="Typing SVG"
@@ -41,6 +54,39 @@ alt="Typing SVG"
 </samp>
 
 </summary>
+
+<br>
+
+<div align="center">
+
+<samp>
+
+Sou Andriele, estudante de Desenvolvimento de Sistemas.
+
+<br><br>
+
+Este perfil reúne projetos, estudos e experiências
+que fazem parte da minha jornada na programação.
+
+<div>
+<br><br>
+
+Aqui você vai encontrar desde exercícios e projetos desenvolvidos durante
+meus estudos até aplicações mais completas envolvendo interfaces,
+APIs, autenticação, banco de dados e outras tecnologias.
+
+<br><br>
+
+Ainda estou construindo meu caminho na tecnologia,
+então este perfil também está sempre mudando.
+
+</samp>
+
+</div>
+
+</samp>
+
+</div>
 
 <br>
 
