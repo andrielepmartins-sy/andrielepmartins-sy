@@ -24,9 +24,13 @@ width="450"
 <div align="center">
 
 <samp>
+ <h3>
+   Desenvolvedora em formação.
+ </h3>  
+ <h3>
+   Aprendendo, criando e constantemente em construção.
+ </h3>
 
-Desenvolvedora em formação.  
-Aprendendo, criando e constantemente em construção.
 
 </samp>
 
